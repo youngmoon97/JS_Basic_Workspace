@@ -79,3 +79,11 @@ const name = "df";
 console.log(name == "moon" ? "yes" : "no");
 
 // 10. switch
+
+// 11. Loop
+// while loop
+// do while loop
+
+// for loop
+// nested loops 중복
+// break, continue
